@@ -91,5 +91,9 @@ _build/
 # python-dotenv
 .env
 
+# Data
+data/
+
+
 # setuptools-scm/
 src/*/_version.py
